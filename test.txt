@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 scfff
 fhwi
 dff
+=======
+scffff
+dfgf
+zdsfffddd
+>>>>>>> 3547e58fc164cd9c19ae56d78e3f495bc12891cd
